@@ -1,15 +1,19 @@
 # Code-Refactor
-fixed up Horiseon website
+In this project I fixed up Horiseon website. By adding HTML semantic elements and changing the corresponding elements in the css file.
 
 ## Link to Website
 https://bytesizeerror.github.io/Code-Refactor/
 
+## Website Demo
+![alt text](https://github.com/ByteSizeError/Code-Refactor/tree/main/websitePreview.png?raw=true)
+
+
 ## Installation
-click on the clone button 
-and in the terminal type in 
+Click on the clone button 
+and in the terminal type in: 
 ```bash
-git clone (ssh link)
+git clone (ssh_link)
 ```
 
 ## Usage
-Displays the Horiseion website
+Displays the Horiseion website.
