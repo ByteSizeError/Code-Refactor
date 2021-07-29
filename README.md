@@ -5,8 +5,7 @@ In this project I fixed up Horiseon website. By adding HTML semantic elements an
 https://bytesizeerror.github.io/Code-Refactor/
 
 ## Website Demo
-![alt text](https://github.com/ByteSizeError/Code-Refactor/tree/main/websitePreview.png?raw=true)
-
+![alt text](https://github.com/ByteSizeError/Code-Refactor/blob/main/websitePreview.png?raw=true)
 
 ## Installation
 Click on the clone button 
